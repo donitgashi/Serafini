@@ -1,0 +1,584 @@
+body{
+  background-color:white;
+
+}
+
+img{
+  width: 200px;
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.emri{
+  margin-bottom: 250px;
+}
+.emri p{
+  color: white;
+  }
+.brunch p {
+  text-align: center;
+  color: white;
+}
+/*.pic img{
+  padding: 15px 15px 15px 15px;
+background-color: white;
+border-radius: 180px;
+}
+*/
+div{
+  text-align: center;
+
+
+
+}
+.instagram:hover{
+  transform: scale(1.04);
+}
+.instagram{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 2px;
+transition: all .2s ease-in-out;
+
+}
+.instagram p{
+
+padding: 20px 0;
+font-family: sans-serif;
+}
+.instagram img{
+  width:50px;
+  height: 50px;
+position: absolute;
+margin-left: 10px;
+margin-top: 4px;
+}
+
+.tik-tok:hover{
+  transform: scale(1.04);
+}
+.tik-tok{
+  background-color:  #36454F;
+  margin:40px 300px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+
+
+}
+.tik-tok p{
+color: white;
+padding: 20px 0;
+font-family: sans-serif;
+}
+.tik-tok img{
+  width:50px;
+  height: 50px;
+position: absolute;
+margin-left: 10px;
+margin-top: 4px;
+}
+.viber_calls:hover{
+  transform: scale(1.04);
+}
+
+.viber_calls{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+}
+.viber_calls p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+}
+.viber_calls img{
+  width:50px;
+  height: 50px;
+position: absolute;
+margin-left: 10px;
+margin-top: 4px;
+
+}
+.Calls{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 10px;
+
+transition: all .2s ease-in-out;
+}
+.Calls img{
+  width:50px;
+  height: 50px;
+position: absolute;
+margin-left: 10px;
+margin-top: 4px;
+
+}
+.Calls:hover{
+    transform: scale(1.04);
+}
+.Calls p{
+
+padding: 20px 0;
+font-family: sans-serif;
+}
+.emri p{
+padding: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.anglisht_shqip{
+	text-align: right;
+	padding-right: 50px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .pic img{
+margin-top: 30px;
+          width: 150px;
+          display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+        .instagram{
+          background-color: #F2F3F5;
+          margin:20px 10px 10px 10px;
+        border-radius: 15px;
+        transition: all .2s ease-in-out;
+
+        }
+
+        .instagram p{
+
+        padding: 20px 0;
+        font-family: sans-serif;
+        font-size: 13px;
+        }
+        .instagram img{
+           width:46px;
+          height:46px;
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 5px;
+        }
+
+
+
+        .tik-tok{
+          background-color: #36454F;
+          margin:20px 10px;
+        border-radius: 15px;
+        transition: all .2s ease-in-out;
+
+
+        }
+        .tik-tok p{
+
+        padding: 20px 0;
+        font-family: sans-serif;
+      font-size: 13px;
+        }
+        .tik-tok img{
+   width:46px;
+          height:46px;
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 5px;
+        }
+
+        .viber_calls{
+          background-color: #F2F3F5;
+          margin:20px 10px;
+        border-radius: 15px;
+        transition: all .2s ease-in-out;
+        }
+        .viber_calls p{
+
+          padding: 20px 0;
+          font-family: sans-serif;
+          font-size: 13px;
+        }
+        .viber_calls img{
+   width:46px;
+          height:46px;
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 5px;
+
+        }
+
+        .Calls{
+          background-color: #F2F3F5;
+          margin:20px 10px;
+        border-radius: 15px;
+
+        transition: all .2s ease-in-out;
+        }
+
+        .Calls img{
+          width:46px;
+          height:46px;
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 5px;
+
+        }
+
+        .Calls p{
+
+        padding: 20px 0;
+        font-family: sans-serif;
+        font-size: 13px;
+        }
+      }
+
+      .emri p{
+      padding: 15px;
+        font-family: sans-serif;
+        font-weight: bold;
+      font-size: 13px;
+
+      }
+
+@media only screen and (min-width:600px){
+  img{
+
+    width: 300px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+/*.pic img{
+
+  border: 3px solid  #25FFFF;
+  border-radius: 150px;
+	}*/
+
+  .instagram{
+    background-color: #F2F3F5;
+    margin:40px 5px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+
+  }
+
+  .instagram p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+  font-size: 45px;
+  }
+  .instagram img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+  }
+
+
+
+  .tik-tok{
+    background-color: #36454F;
+    margin:40px 5px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+
+
+  }
+  .tik-tok p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+font-size: 45px;
+  }
+  .tik-tok img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+  }
+
+  .viber_calls{
+    background-color: #F2F3F5;
+    margin:40px 10px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+  }
+  .viber_calls p{
+
+    padding: 20px 0;
+    font-family: sans-serif;
+    font-size: 45px;
+  }
+  .viber_calls img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+
+  }
+
+  .Calls{
+    background-color: #F2F3F5;
+    margin:40px 10px;
+  border-radius: 15px;
+
+  transition: all .2s ease-in-out;
+  }
+
+  .Calls img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+
+  }
+
+  .Calls p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+  font-size: 45px;
+  }
+}
+
+.emri p{
+padding: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+font-size: 40px;
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  img{
+
+    width: 300px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+/*.pic img{
+
+  border: 3px solid  #25FFFF;
+  border-radius: 150px;
+
+}*/
+  .instagram{
+    background-color: #F2F3F5;
+    margin:40px 5px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+
+  }
+
+  .instagram p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+  font-size: 45px;
+  }
+  .instagram img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 15px;
+  margin-top: 8px;
+  }
+
+
+
+  .tik-tok{
+    background-color: #36454F;
+    margin:40px 5px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+
+
+  }
+  .tik-tok p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+font-size: 45px;
+  }
+  .tik-tok img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+  }
+
+  .viber_calls{
+    background-color: #F2F3F5;
+    margin:40px 5px;
+  border-radius: 15px;
+  transition: all .2s ease-in-out;
+  }
+  .viber_calls p{
+
+    padding: 20px 0;
+    font-family: sans-serif;
+    font-size: 45px;
+  }
+  .viber_calls img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+
+  }
+
+  .Calls{
+    background-color: #F2F3F5;
+    margin:40px 5px;
+  border-radius: 15px;
+
+  transition: all .2s ease-in-out;
+  }
+
+  .Calls img{
+    width:80px;
+    height: 80px;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 8px;
+
+  }
+
+  .Calls p{
+
+  padding: 20px 0;
+  font-family: sans-serif;
+  font-size: 45px;
+  }
+}
+
+.emri p{
+padding: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+font-size: 15px;
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  img{
+margin-top:0;
+    width: 300px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+
+  .instagram{
+    background-color: #F2F3F5;
+    margin:40px 210px;
+  border-radius: 10px;
+  transition: all .2s ease-in-out;
+
+  }
+
+
+
+
+  .tik-tok{
+    background-color: #36454F;
+    margin:40px 210px;
+  border-radius: 10px;
+  transition: all .2s ease-in-out;
+
+
+  }
+
+
+  .viber_calls{
+    background-color: #F2F3F5;
+    margin:40px 210px;
+  border-radius: 10px;
+  transition: all .2s ease-in-out;
+  }
+
+
+  .Calls{
+    background-color: #F2F3F5;
+    margin:40px 210px;
+  border-radius: 10px;
+
+  transition: all .2s ease-in-out;
+  }
+
+
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+img{
+
+  width: 300px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.instagram{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+
+}
+
+
+
+
+.tik-tok{
+  background-color: #36454F;
+  margin:40px 300px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+
+
+}
+
+
+.viber_calls{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+}
+
+
+.Calls{
+  background-color: #F2F3F5;
+  margin:40px 300px;
+border-radius: 10px;
+
+transition: all .2s ease-in-out;
+}
+}
